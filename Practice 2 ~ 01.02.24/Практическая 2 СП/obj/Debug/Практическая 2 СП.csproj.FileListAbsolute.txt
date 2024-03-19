@@ -1,0 +1,15 @@
+C:\Users\909090\Desktop\Пратика\Практическая 2 СП\Практическая 2 СП\bin\Debug\Практическая 2 СП.exe.config
+C:\Users\909090\Desktop\Пратика\Практическая 2 СП\Практическая 2 СП\bin\Debug\Практическая 2 СП.exe
+C:\Users\909090\Desktop\Пратика\Практическая 2 СП\Практическая 2 СП\bin\Debug\Практическая 2 СП.pdb
+C:\Users\909090\Desktop\Пратика\Практическая 2 СП\Практическая 2 СП\obj\Debug\Практическая 2 СП.csproj.AssemblyReference.cache
+C:\Users\909090\Desktop\Пратика\Практическая 2 СП\Практическая 2 СП\obj\Debug\Практическая 2 СП.csproj.CoreCompileInputs.cache
+C:\Users\909090\Desktop\Пратика\Практическая 2 СП\Практическая 2 СП\obj\Debug\Практическая 2 СП.exe
+C:\Users\909090\Desktop\Пратика\Практическая 2 СП\Практическая 2 СП\obj\Debug\Практическая 2 СП.pdb
+C:\Users\Hi-tech\Desktop\Системное программирование\Практическая 2 СП\Практическая 2 СП\bin\Debug\Практическая 2 СП.exe.config
+C:\Users\Hi-tech\Desktop\Системное программирование\Практическая 2 СП\Практическая 2 СП\bin\Debug\Практическая 2 СП.exe
+C:\Users\Hi-tech\Desktop\Системное программирование\Практическая 2 СП\Практическая 2 СП\bin\Debug\Практическая 2 СП.pdb
+C:\Users\Hi-tech\Desktop\Системное программирование\Практическая 2 СП\Практическая 2 СП\obj\Debug\Практическая 2 СП.csproj.AssemblyReference.cache
+C:\Users\Hi-tech\Desktop\Системное программирование\Практическая 2 СП\Практическая 2 СП\obj\Debug\Практическая 2 СП.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hi-tech\Desktop\Системное программирование\Практическая 2 СП\Практическая 2 СП\obj\Debug\Практическая 2 СП.csproj.CoreCompileInputs.cache
+C:\Users\Hi-tech\Desktop\Системное программирование\Практическая 2 СП\Практическая 2 СП\obj\Debug\Практическая 2 СП.exe
+C:\Users\Hi-tech\Desktop\Системное программирование\Практическая 2 СП\Практическая 2 СП\obj\Debug\Практическая 2 СП.pdb

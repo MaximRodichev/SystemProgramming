@@ -1,0 +1,8 @@
+C:\Users\Hi-tech\Desktop\Системное программирование\Практическая номер 5\Практическая номер 5\bin\Debug\Практическая номер 5.exe.config
+C:\Users\Hi-tech\Desktop\Системное программирование\Практическая номер 5\Практическая номер 5\bin\Debug\Практическая номер 5.exe
+C:\Users\Hi-tech\Desktop\Системное программирование\Практическая номер 5\Практическая номер 5\bin\Debug\Практическая номер 5.pdb
+C:\Users\Hi-tech\Desktop\Системное программирование\Практическая номер 5\Практическая номер 5\obj\Debug\Практическая номер 5.csproj.AssemblyReference.cache
+C:\Users\Hi-tech\Desktop\Системное программирование\Практическая номер 5\Практическая номер 5\obj\Debug\Практическая номер 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hi-tech\Desktop\Системное программирование\Практическая номер 5\Практическая номер 5\obj\Debug\Практическая номер 5.csproj.CoreCompileInputs.cache
+C:\Users\Hi-tech\Desktop\Системное программирование\Практическая номер 5\Практическая номер 5\obj\Debug\Практическая номер 5.exe
+C:\Users\Hi-tech\Desktop\Системное программирование\Практическая номер 5\Практическая номер 5\obj\Debug\Практическая номер 5.pdb

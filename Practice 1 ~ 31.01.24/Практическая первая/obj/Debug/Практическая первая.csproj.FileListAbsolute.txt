@@ -1,0 +1,8 @@
+C:\Users\Hi-tech\Desktop\Системное программирование\Практическая первая\Практическая первая\bin\Debug\Практическая первая.exe.config
+C:\Users\Hi-tech\Desktop\Системное программирование\Практическая первая\Практическая первая\bin\Debug\Практическая первая.exe
+C:\Users\Hi-tech\Desktop\Системное программирование\Практическая первая\Практическая первая\bin\Debug\Практическая первая.pdb
+C:\Users\Hi-tech\Desktop\Системное программирование\Практическая первая\Практическая первая\obj\Debug\Практическая первая.csproj.AssemblyReference.cache
+C:\Users\Hi-tech\Desktop\Системное программирование\Практическая первая\Практическая первая\obj\Debug\Практическая первая.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hi-tech\Desktop\Системное программирование\Практическая первая\Практическая первая\obj\Debug\Практическая первая.csproj.CoreCompileInputs.cache
+C:\Users\Hi-tech\Desktop\Системное программирование\Практическая первая\Практическая первая\obj\Debug\Практическая первая.exe
+C:\Users\Hi-tech\Desktop\Системное программирование\Практическая первая\Практическая первая\obj\Debug\Практическая первая.pdb

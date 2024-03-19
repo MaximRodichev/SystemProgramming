@@ -1,0 +1,8 @@
+C:\Users\Hi-tech\Desktop\Системное программирование\Практическая 3\Практическая 2\bin\Debug\Практическая 2.exe.config
+C:\Users\Hi-tech\Desktop\Системное программирование\Практическая 3\Практическая 2\bin\Debug\Практическая 2.exe
+C:\Users\Hi-tech\Desktop\Системное программирование\Практическая 3\Практическая 2\bin\Debug\Практическая 2.pdb
+C:\Users\Hi-tech\Desktop\Системное программирование\Практическая 3\Практическая 2\obj\Debug\Практическая 2.csproj.AssemblyReference.cache
+C:\Users\Hi-tech\Desktop\Системное программирование\Практическая 3\Практическая 2\obj\Debug\Практическая 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hi-tech\Desktop\Системное программирование\Практическая 3\Практическая 2\obj\Debug\Практическая 2.csproj.CoreCompileInputs.cache
+C:\Users\Hi-tech\Desktop\Системное программирование\Практическая 3\Практическая 2\obj\Debug\Практическая 2.exe
+C:\Users\Hi-tech\Desktop\Системное программирование\Практическая 3\Практическая 2\obj\Debug\Практическая 2.pdb
