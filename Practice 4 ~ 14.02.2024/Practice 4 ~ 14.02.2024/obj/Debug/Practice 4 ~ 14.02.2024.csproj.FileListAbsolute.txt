@@ -1,0 +1,8 @@
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\SystemProgramming\Practice 4 ~ 14.02.2024\Practice 4 ~ 14.02.2024\bin\Debug\Practice 4 ~ 14.02.2024.exe.config
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\SystemProgramming\Practice 4 ~ 14.02.2024\Practice 4 ~ 14.02.2024\bin\Debug\Practice 4 ~ 14.02.2024.exe
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\SystemProgramming\Practice 4 ~ 14.02.2024\Practice 4 ~ 14.02.2024\bin\Debug\Practice 4 ~ 14.02.2024.pdb
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\SystemProgramming\Practice 4 ~ 14.02.2024\Practice 4 ~ 14.02.2024\obj\Debug\Practice 4 ~ 14.02.2024.csproj.AssemblyReference.cache
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\SystemProgramming\Practice 4 ~ 14.02.2024\Practice 4 ~ 14.02.2024\obj\Debug\Practice 4 ~ 14.02.2024.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\SystemProgramming\Practice 4 ~ 14.02.2024\Practice 4 ~ 14.02.2024\obj\Debug\Practice 4 ~ 14.02.2024.csproj.CoreCompileInputs.cache
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\SystemProgramming\Practice 4 ~ 14.02.2024\Practice 4 ~ 14.02.2024\obj\Debug\Practice 4 ~ 14.02.2024.exe
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\SystemProgramming\Practice 4 ~ 14.02.2024\Practice 4 ~ 14.02.2024\obj\Debug\Practice 4 ~ 14.02.2024.pdb
