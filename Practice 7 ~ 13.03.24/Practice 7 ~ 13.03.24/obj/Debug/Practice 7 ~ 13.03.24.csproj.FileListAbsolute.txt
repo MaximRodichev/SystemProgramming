@@ -1,0 +1,11 @@
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\SystemProgramming\Practice 7 ~ 13.03.24\Practice 7 ~ 13.03.24\bin\Debug\Practice 7 ~ 13.03.24.exe.config
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\SystemProgramming\Practice 7 ~ 13.03.24\Practice 7 ~ 13.03.24\bin\Debug\Practice 7 ~ 13.03.24.exe
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\SystemProgramming\Practice 7 ~ 13.03.24\Practice 7 ~ 13.03.24\bin\Debug\Practice 7 ~ 13.03.24.pdb
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\SystemProgramming\Practice 7 ~ 13.03.24\Practice 7 ~ 13.03.24\obj\Debug\Practice 7 ~ 13.03.24.csproj.AssemblyReference.cache
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\SystemProgramming\Practice 7 ~ 13.03.24\Practice 7 ~ 13.03.24\obj\Debug\Practice 7 ~ 13.03.24.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\SystemProgramming\Practice 7 ~ 13.03.24\Practice 7 ~ 13.03.24\obj\Debug\Practice_7___13._03._24.Form1.resources
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\SystemProgramming\Practice 7 ~ 13.03.24\Practice 7 ~ 13.03.24\obj\Debug\Practice_7___13._03._24.Properties.Resources.resources
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\SystemProgramming\Practice 7 ~ 13.03.24\Practice 7 ~ 13.03.24\obj\Debug\Practice 7 ~ 13.03.24.csproj.GenerateResource.cache
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\SystemProgramming\Practice 7 ~ 13.03.24\Practice 7 ~ 13.03.24\obj\Debug\Practice 7 ~ 13.03.24.csproj.CoreCompileInputs.cache
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\SystemProgramming\Practice 7 ~ 13.03.24\Practice 7 ~ 13.03.24\obj\Debug\Practice 7 ~ 13.03.24.exe
+C:\Users\Hi-tech\Documents\ShyagaProgrammnaya\SystemProgramming\Practice 7 ~ 13.03.24\Practice 7 ~ 13.03.24\obj\Debug\Practice 7 ~ 13.03.24.pdb

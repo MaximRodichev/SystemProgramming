@@ -37,7 +37,7 @@ namespace Functions
         /// <returns>Возвращает List</returns>
         public static List<int> GetListofDigits(int trye)
         {
-            trye = Reversed(trye);
+            
             List<int> digits = new List<int>();
             int Deleter = 10;
             while (Deleter / 10 < trye)

@@ -18,5 +18,14 @@ namespace Practice_7___13._03._24
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
+
+        static public Dictionary<string, Auto> AutoDict = new Dictionary<string, Auto>(){
+            {"Газель", new Gazel()},
+            {"ЗИЛ", new ZIL() },
+            {"МАЗ", new MAZ() },
+            {"Scania", new Scania() },
+            {"Volvo", new Volvo() }
+        };
     }
+    
 }
